@@ -4,22 +4,22 @@ h1 {color: blue;}
 h2 {color: purple;}
 h3 {color: green;}
 #para1{
-  font-weight: 100;
-  font-family: "Oswald";
-}
-
-#para2 {
   font-weight: 300;
   font-family: "Oswald";
 }
 
-#para3 {
-  font-weight: 700;
+#para2{
+  font-weight: 400;
   font-family: "Oswald";
 }
 
-#para4 {
-  font-weight: 900;
+#para3{
+  font-weight: 300;
+  font-family: "Oswald";
+}
+
+#para4{
+  font-weight: 600;
   font-family: "Oswald";
 }
 
@@ -29,9 +29,9 @@ h2 {
 
 h3 {
   font-family: "Oswald";
-
 }
+
 body {
-  font-family: "Oswald", sans-serif;
-  font-size: 32px;
+  font-family: fantasy;
+  font-size: 40px
 }
